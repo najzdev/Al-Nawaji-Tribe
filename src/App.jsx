@@ -175,7 +175,7 @@ export default function App() {
             })}
             <a
               className="social-link social-link-nav"
-              href="https://web.facebook.com/ouladsidinaji2015"
+              href="https://www.facebook.com/ouladsidinaji2015"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Facebook"
@@ -212,7 +212,7 @@ export default function App() {
           </div>
           <a
             className="hero-facebook"
-            href="https://web.facebook.com/ouladsidinaji2015"
+            href="https://www.facebook.com/ouladsidinaji2015"
             target="_blank"
             rel="noopener noreferrer"
           >
